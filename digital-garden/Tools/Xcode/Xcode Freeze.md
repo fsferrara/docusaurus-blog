@@ -1,0 +1,6 @@
+- Problem: Xcode freezes every now an then
+    - Possible Solutions:
+        - Kill the `SourceKitService` process: `pkill -9 SourceKitService`
+        - Deactivate iCloud (it sync some Xcode stuff that may slow down)
+        - Reset simulator
+        - Unattach/Delete physical devices

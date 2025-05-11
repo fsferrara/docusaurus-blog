@@ -1,0 +1,59 @@
+blog:
+  label: Blog
+  permalink: blog
+  description: blog
+
+programming:
+  label: Programming
+  permalink: programming
+  description: programming
+
+talks:
+  label: Talks
+  permalink: talks
+  description: talks
+
+internet:
+  label: Internet
+  permalink: internet
+  description: internet
+
+history:
+  label: History
+  permalink: history
+  description: history
+
+devops:
+  label: DevOps
+  permalink: devops
+  description: devops
+
+thoughts:
+  label: Thoughts
+  permalink: thoughts
+  description: thoughts
+
+productivity:
+  label: Productivity
+  permalink: productivity
+  description: productivity
+
+system administration:
+  label: System Administration
+  permalink: system-administration
+  description: system administration
+
+board games:
+  label: Board Games
+  permalink: board-games
+  description: board games
+
+writing:
+  label: Writing
+  permalink: writing
+  description: writing
+
+security and privacy:
+  label: Security and Privacy
+  permalink: security-and-privacy
+  description: security and privacy
